@@ -1,0 +1,59 @@
+* {
+   font-family: 'Open Sans';
+   color:#000000;
+}
+a {
+	text-decoration:none;
+	padding:10px;
+
+}
+nav {
+	position:relative;
+	top:100px;
+}
+button {
+	padding:15px;
+	background-color:#FCB739;
+	border: 1px solid #FCB739;
+	border-radius:10px;
+	position:relative;
+	top:70px;
+	left:20px;
+	font-size:16px;
+}
+
+.grupal {
+	width:100%;
+}
+
+.imagen {
+	margin:20px 0px 0px 0px;
+}
+.foto {
+	background-image: url("../img/grupal.jpg");
+	width:100%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height:800px;
+}
+.grupal {
+	position:relative;
+	top:90px;
+}
+.container {
+	width:80%;
+}
+ footer {
+ 	background-color:#323230;
+ 	margin-top:280px;
+ 	padding:20px;
+}
+ p {
+ 	color:white;
+ 	padding-left:130px;
+ }
+
+
+
+
+
